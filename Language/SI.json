@@ -1,10 +1,10 @@
 {
-    "__AMDIJSON__": true,
+    "__HELPJSON__": true,
     "LANGUAGE": "Sinhala",
     "LANGCODE": "sinhala",
     "AUTHOR": "OminduAnjana",
     "STRINGS": {
-        "_amdi": {
+        "_help": {
             "COMMAND": "විධානය",
             "DESC": "විස්තරය",
             "EXAMPLE": "උදාහරණයක්",

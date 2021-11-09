@@ -9,7 +9,7 @@
 [![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@DarkKingbot/Smart-Help-QR-Code#index.js)
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
-[![Deploy](resources/gif/IMG_00010704_010005.png?size=40)](https://bit.ly/0XrSqG1)
+[![Deploy](resources/gif/IMG_00010704_010005.png?size=40)](https://git.heroku.com/smart-help-whatsapp-bot.git)
 
 
 #

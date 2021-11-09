@@ -1,2 +1,30 @@
 
-coming soon...
+{
+  "name": "rs-smarthelp",
+  "version": "1.0.0",
+  "description": "smarthelp.",
+  "main": "./SmartHelp/Smart.js",
+  "scripts": {
+    "start": "supervisor -s Smart.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkKingbot/DarkKingbot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "Smart",
+    "Help",
+    "SmartHelp",
+    "bot"
+  ],
+  "author": "Omindu Anjana",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DarkKingbot/DarkKingbot.git"
+  },
+  "homepage": "https://github.com/DarkKingbot/DarkKingbot.git",
+  "dependencies": {
+    "rs-smarthelp": "2.0.0"
+  }
+}

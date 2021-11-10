@@ -6,7 +6,7 @@
 
 🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත රූපය මත ටච් කරන්න
 
-[![Run on Repl.it][(https://www.google.com/imgres?imgurl=https%3A%2F%2Fmms.businesswire.com%2Fmedia%2F20210218005523%2Fen%2F859955%2F22%2FReplit.jpg&imgrefurl=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20210218005523%2Fen%2FReplit%25E2%2580%2599s-%25E2%2580%259CIn-Browser%25E2%2580%259D-Multiplayer-Programming-Environment-Makes-Coding-More-Accessible-on-All-Devices-on-Any-Operating-System&tbnid=AiuGc6Q3fgtfZM&vet=12ahUKEwjD9-6xzY30AhVltWMGHdFUA_sQMygCegUIARDBAQ..i&docid=PE060rx3CaCySM&w=1024&h=512&itg=1&q=replit%20image&ved=2ahUKEwjD9-6xzY30AhVltWMGHdFUA_sQMygCegUIARDBAQ)](https://replit.com/@DarkKingbot/Smart-Help-QR-Code#index.js)
+[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@DarkKingbot/Smart-Help-QR-Code#index.js)
 
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
@@ -275,7 +275,7 @@ Coded By Omindu Anjana
 											<tr>
 												<td><a href=""><img src="" width="100" height="100" alt="KALANA"></a></td>
 												<td><a href=""><img src="" width="100" height="100" alt="NADIL"></a></td>
-												<td><a href=""><img src="" width="100" height="100" alt="ZEYREX"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="KAVINDU"></a></td>
 												<td><a href=""><img src="" width="100" height="100" alt="JANITH"></a></td>
 											</tr>
 											<tr>

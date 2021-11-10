@@ -7,9 +7,10 @@
 🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත රූපය මත ටච් කරන්න
 
 [![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@DarkKingbot/Smart-Help-QR-Code#index.js)
+
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
-[![Deploy](resources/gif/IMG_00010704_010005.png?size=40)](https://git.heroku.com/smart-help-whatsapp-bot.git)
+[![Deploy]()](https://bit.ly/0XrSqG1)
 
 
 #
@@ -29,7 +30,7 @@ For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත �
   
   
   <h1>🍁  Whatsapp Bot By Omindu Anjana  🍁</h1>
-  <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
+  <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰 No 1 WHATSAPP BOT SRI LANKA 🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 
 ----
@@ -248,4 +249,39 @@ Coded By Omindu Anjana
 
 
 #
- <h1>🍁  Dark Angel Team  🍁</h1>
+ <h1>🍁  Dark Angel Team Member 🍁</h1>
+ 
+ ## 
+
+<table>
+										<tbody>
+											<tr>
+												<td><a href=""><img src="" width="100" height="100" alt="OMINDU ANJANA"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="DAMITH"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="KAVINDU"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="RAVINDU"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="RAVINDU"></a></td>
+											</tr>
+											<tr>
+												<td><a href="">OMINDU ANJANA</a></br>(Founder)</td>
+												<td><a href="">DAMITH</a></br>(Co-Admin)</td>
+												<td><a href="">KAVINDU</a></br>(Public Supportive)</td>
+												<td><a href="">RAVINDU</a></br>(Web developer)</td>
+												<td><a href="">RAVINDU</a></br>(Graphic Designer)</td>
+										</tbody>
+									</table>
+                  <table>
+										<tbody>
+											<tr>
+												<td><a href=""><img src="" width="100" height="100" alt="KALANA"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="NADIL"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="ZEYREX"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="JANITH"></a></td>
+											</tr>
+											<tr>
+												<td><a href="">KALANA</a></br>(Group Management)</td>
+												<td><a href="">NADIL</a></br>(Group Management)</td>
+												<td><a href="">OMINDU ANJANA</a></br>(Ideas)</td>
+												<td><a href="">JANITH</a></br>(Member)</td>
+										</tbody>
+									</table>

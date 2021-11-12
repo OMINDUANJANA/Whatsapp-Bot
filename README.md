@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
 <h1>🍁  ❤ Whatsapp Bot By Omindu Anjana ❤  🍁</h1>
 </div>
 
@@ -6,7 +6,7 @@
 
 🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත රූපය මත ටච් කරන්න
 
-[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@DarkKingbot/Smart-Help-QR-Code#index.js)
+[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@DarkKingbot/smart-help#index.js)
 
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
@@ -24,9 +24,6 @@ For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත �
 
 - [Omindu Anjana]()
 
-
-<div align="center">
-  <img src=".jpeg" width="050" height="050">
   
   
   <h1>🍁  Whatsapp Bot By Omindu Anjana  🍁</h1>
@@ -275,7 +272,7 @@ Coded By Omindu Anjana
 											<tr>
 												<td><a href=""><img src="" width="100" height="100" alt="KALANA"></a></td>
 												<td><a href=""><img src="" width="100" height="100" alt="NADIL"></a></td>
-												<td><a href=""><img src="" width="100" height="100" alt="KAVINDU"></a></td>
+												<td><a href=""><img src="" width="100" height="100" alt="OMINDU"></a></td>
 												<td><a href=""><img src="" width="100" height="100" alt="JANITH"></a></td>
 											</tr>
 											<tr>
